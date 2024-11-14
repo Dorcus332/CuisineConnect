@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CuisineConnect</string>
+    <string name="select_country">Select Country</string>
+
+    <string-array name="countries_array">
+        <item>United States</item>
+        <item>Canada</item>
+        <item>United Kingdom</item>
+        <item>Australia</item>
+        <item>Kenya</item>
+        <item>India</item>
+        <item>Tanzania</item>
+        <item>Uganda</item>
+        <item>Nigeria</item>
+
+    </string-array>
+
+</resources>

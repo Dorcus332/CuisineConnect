@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "355972907678",
+    "project_id": "cuisineconnect-ccbd8",
+    "storage_bucket": "cuisineconnect-ccbd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355972907678:android:1d25a76d1640cb1d5f318f",
+        "android_client_info": {
+          "package_name": "com.example.cuisineconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALItw74spQ4MTnkMHQ_12NJRrJimFwoIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
