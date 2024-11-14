@@ -15,7 +15,7 @@ import okhttp3.Response;
 
 public class MicrosoftTranslatorClient {
     private final String endpoint = "https://api.cognitive.microsofttranslator.com";
-    private final String apiKey = "e3d3ab48f7cf42828f5f07bc25085d3e";
+    private final String apiKey = "*********************************";
     private final String region = "southafricanorth"; // Ensure this matches your resource region
 
     public MicrosoftTranslatorClient() {
